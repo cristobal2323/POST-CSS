@@ -1,0 +1,40 @@
+{
+  "name": "post-css",
+  "version": "1.0.0",
+  "description": "Front-end",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "autoprefixer": "^6.6.0",
+    "browser-sync": "^2.18.5",
+    "css-mqpacker": "^5.0.1",
+    "csswring": "^5.1.1",
+    "gulp": "^3.9.1",
+    "gulp-rucksack": "^0.1.3",
+    "gulp-postcss": "^6.2.0",
+    "import": "^0.0.6",
+    "lost": "^8.0.0",
+    "postcss": "^5.2.11",
+    "postcss-cssnext": "^2.9.0",
+    "postcss-import": "^9.1.0",
+    "postcss-mixins": "^5.4.1",
+    "postcss-nested": "^1.0.0",
+    "rucksack-css": "^0.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristobal2323/POST-CSS.git"
+  },
+  "keywords": [
+    "fores23"
+  ],
+  "author": "Cristóbal Maturana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristobal2323/POST-CSS/issues"
+  },
+  "homepage": "https://github.com/cristobal2323/POST-CSS#readme"
+}
